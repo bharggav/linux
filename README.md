@@ -10,3 +10,4 @@ sudo apt-get update
 
 whoami
 
+docker exec -it spark /bin/bash
